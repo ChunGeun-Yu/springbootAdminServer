@@ -1,0 +1,8 @@
+server:
+  port: 9090
+
+spring:
+  security:    # admin ui 페이지 접근을 위하 id,pw
+    user:
+      name: testUser
+      password: testUser
